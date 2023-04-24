@@ -2,7 +2,7 @@
 ## 讲员：陈老师
 ## 经文：《路加福音》7：1-10
 
-<audio controls src="./230416.mp3"></audio>
+<audio controls src="./230423.mp3"></audio>
 
 ![](./images/1.jpg)
 ![](./images/2.jpg)
